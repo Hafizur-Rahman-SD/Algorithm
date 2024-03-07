@@ -2,7 +2,7 @@
 
 int main() {
     int i, j;   //take 2 variable 
-    printf(" 1 to 50 prime number are : \n");   
+    printf(" 1 to 50 prime number are : \n");   //to count prime numbers 1 to 50 end. 
 
     for(i=2;i<= 50;i++){
         int isPrime=1;
