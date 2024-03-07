@@ -1,7 +1,8 @@
-#include <stdio.h>
+#include <stdio.h>  //heder file
+
 int main() {
-    int i, j;
-    printf(" 1 to 50 prime number are : \n");
+    int i, j;   //take 2 variable 
+    printf(" 1 to 50 prime number are : \n");   
 
     for(i=2;i<= 50;i++){
         int isPrime=1;
